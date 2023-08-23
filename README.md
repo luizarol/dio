@@ -3,5 +3,5 @@ Repósitório para armazenar resumos  sobre Git e github da [Digital innovation 
 ## ✔📃DOCUMENTAÇÃO~
 - [Documentação git](https://docs.github.com/pt)
 
-##💻RESUMOS 
+##💻RESUMO 
 
